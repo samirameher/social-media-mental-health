@@ -12,4 +12,4 @@ A data-driven exploration of how social media usage correlates with mental healt
 - Boxplots, Bar Charts, Regression Plots
 - Public Health Reports
 
-📄 See full presentation: [social_media_mental_health.pdf](social_media_mental_health.pdf)
+
